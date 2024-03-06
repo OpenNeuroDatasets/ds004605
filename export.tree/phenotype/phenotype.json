@@ -1,0 +1,935 @@
+{
+    "participant_id":{
+    	"Description": "participant identifier"
+    },
+
+    "CBRS.01_ANGRY_RESENTFUL": {
+        "Description": "Question 1 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.03_ON_THE_GO": {
+        "Description": "Question 3 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.09_MENTAL_EFFORT": {
+        "Description": "Question 9 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.10_DIFFICULTY_SUSTAINING_ATTN": {
+        "Description": "Question 10 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.11_ARGUES_WITH_ADULTS": {
+        "Description": "Question 11 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.18_RESTLESS": {
+        "Description": "Question 18 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.19_TROUBLE_CONCENTRATING": {
+        "Description": "Question 19 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.20_DOES_NOT_LISTEN": {
+        "Description": "Question 20 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.21_LOSES_TEMPER": {
+        "Description": "Question 21 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.23_INAPPROPRIATE_BHVR": {
+        "Description": "Question 23 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.28_IMPULSIVE": {
+        "Description": "Question 28 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.29_DOES_NOT_FOLLOW_INSTRUCTIONS": {
+        "Description": "Question 29 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.30_DIFFICULTY_ORGANIZING": {
+        "Description": "Question 30 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.31_IRRITABLE": {
+        "Description": "Question 31 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.37_FAILS_TO_FINISH": {
+        "Description": "Question 37 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.38_INATTENTIVE": {
+        "Description": "Question 38 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.39_TALKS_EXCESSIVELY": {
+        "Description": "Question 39 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.41_FAILS_ATTENTION_TO_DETAILS": {
+        "Description": "Question 41 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.42_DIFFICULTY_WAITING_IN_LINE": {
+        "Description": "Question 42 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.45_ATTN_SPAN_PROBLEM": {
+        "Description": "Question 45 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.47_TEMPER_OUTBURSTS": {
+        "Description": "Question 47 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.48_DISTRACTED": {
+        "Description": "Question 48 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.49_INTERRUPTS_OTHERS": {
+        "Description": "Question 49 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.50_FORGETFUL": {
+        "Description": "Question 50 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+    
+    "CBRS.55_FIDGETS": {
+        "Description": "Question 55 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.56_SHORT_ATTN_SPAN": {
+        "Description": "Question 56 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.57_EASILY_ANNOYED": {
+        "Description": "Question 57 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.59_DIFFICULTY": {
+        "Description": "Question 59 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.62_FIDGETING": {
+        "Description": "Question 62 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.63_MESSY_AT_HOME": {
+        "Description": "Question 63 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.64_UPSET": {
+        "Description": "Question 64 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.68_FRUSTRATED": {
+        "Description": "Question 68 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.71_LOSES_THINGS": {
+        "Description": "Question 71 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.76_LEAVES_SEAT": {
+        "Description": "Question 76 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.78_EASILY_FRUSTRATED": {
+        "Description": "Question 78 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.79_EASILY_DISTRACTED": {
+        "Description": "Question 79 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.80_BLURTS_OUT_ANSWERS": {
+        "Description": "Question 80 from the Conners (3rd edition) Comprehensive Behavioral Rating Scale (CBRS) for parents. Citation: Conners, C. K., Pitkanen, J., & Rzepa, S. R. (2011). Conners 3rd Edition (Conners 3; Conners 2008). In J. S. Kreutzer, J. DeLuca, & B. Caplan (Eds.), Encyclopedia of Clinical Neuropsychology (pp. 675–678). Springer New York.",
+        "Levels": {
+            "0": "Not true at all (Never, Seldom)",
+            "1": "Just a little true (Occasionally)",
+            "2": "Pretty much true (Often, Quite a Bit)",
+            "3": "Very much true (Very Often, Very Frequent)"
+        }
+    },
+
+    "CBRS.ProRated.Inattentive": {
+        "Description": "Sum score of responses from the CBRS DSM IV Inattentive scale (i.e., items 9, 10, 20, 29, 30, 41, 50, 71, and 79) divided by the number of completed items from that scale."
+    },
+
+    "CBRS.Prorated.Hyperactive": {
+        "Description": "Sum score of responses from the CBRS DSM IV Hyperactive/Impulsive scale (i.e., items 3, 23, 39, 42, 49, 55, 59, 76 and 80) divided by the number of completed items from that scale."
+    },
+
+    "WASI_FULL_2_IQ": {
+        "Description": "Score from abbreviated 2 scale IQ test from the Wechsler Abbreviated Scale of Intelligence (WASI). Citation: Wechsler, D. (2011). Wechsler Abbreviated Scale of Intelligence--Second Edition (WASI-II)"
+    },
+
+    "INCOME": {
+        "Description": "Self-reported household's gross income",
+        "Levels": {
+            "1": "Under $5,000",
+            "2": "$5,000-$9,999",
+            "3": "$10,000-$14,999",
+            "4": "$15,000-$24,999",
+            "5": "$25,000-$39,999",
+            "6": "$40,000-$59,999",
+            "7": "$60,000-$89,999",
+            "8": "$90,000-$179,999",
+            "9": "Over $180,000"
+ 	 }
+    },
+
+    "ETHNICITY": {
+        "Description": "Participant self-identified status as Hispanic/Latinx",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "RACE.WHITE": {
+        "Description": "The participant identifies as White",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "RACE.BLACK": {
+        "Description": "The participant identifies as Black",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "RACE.ASIAN": {
+        "Description": "The participant identifies as Asian",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "RACE.MULTIPLE": {
+        "Description": "The participant has multiple racial identities",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "PSYMED_ANTIDEPR_YN": {
+        "Description": "The participant takes anti-depressant medication",
+        "Levels": {
+            "1": "yes",
+            "0": "no"
+        }
+    },
+
+    "PSYMED_ANTIEPILEPT_YN": {
+        "Description": "The participant takes epilepsy medication",
+        "Levels": {
+            "1": "yes",
+            "0": "no"
+        }
+    },
+
+    "PSYMED_ATYP_ANTIPSYCHOTIC_YN": {
+        "Description": "The participant takes aytipical antipsychotic medication",
+        "Levels": {
+            "1": "yes",
+            "0": "no"
+        }
+    },
+
+    "PSYMED_STIMULANTS_YN": {
+        "Description": "The participant takes stimulant medication",
+        "Levels": {
+            "1": "yes",
+            "0": "no"
+        }
+    },
+
+    "PSYMED_NONSTIM_ANTIADHD_YN": {
+        "Description": "The participant takes non-stimulant ADHD medication",
+        "Levels": {
+            "1": "yes",
+            "0": "no"
+        }
+    },
+
+    "MED_LOAD": {
+        "Description": "Psychotropic medication load. Calculated from participant's current medications using guidelines proposed in Sackeim HA. The definition and meaning of treatment-resistant depression. J Clin Psychiatry. 2001;62 Suppl 16:10-7. PMID: 11480879."
+    },
+
+    "CGAS_CURRENT_SCORE": {
+        "Description": "Children's Global Assessment Scale (CGAS) score. Clinician-completed rating on a scale from 0 to 100. Citation: Schaffer D, Gould MS, Brasic J, et al. (1983) A children's global assessment scale (CGAS). Archives of General Psychiatry, 40, 1228-1231."
+    },
+
+    "SCAR_H_IMPULSIVITY_MEAN": {
+        "Description": "Mean score from Impulsivity subscale of parent-reported Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759."
+    },
+
+    "SCAR_H.23_TROUBLE_WAIT": {
+        "Description": "Item 23 from Impulsivity scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.24_CONTROL_IMPULSE": {
+        "Description": "Item 24 from Impulsivity scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.25_SAY_MIND": {
+        "Description": "Item 25 from Impulsivity scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.26_NOT_PLAN": {
+        "Description": "Item 26 from Impulsivity scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.27_SPUR_MOMENT": {
+        "Description": "Item 27 from Impulsivity scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.28_TROUBLE_MAKE_MIND": {
+        "Description": "Item 28 from Impulsivity scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.29_GIVE_UP_EASY": {
+        "Description": "Item 29 from Impulsivity scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.30_UNABLE_SEE_THROUGH": {
+        "Description": "Item 30 from Impulsivity scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H_IRRITABILITY_MEAN": {
+        "Description": "Mean score from Irritability subscale of parent-reported Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759."
+    },
+
+    "SCAR_H.11_BUG": {
+        "Description": "Item 11 from Irritability scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.12_GROUCHY": {
+        "Description": "Item 12 from Irritability scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.13_RUDE": {
+        "Description": "Item 13 from Irritability scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "SCAR_H.14_ANNOYED": {
+        "Description": "Item 14 from Irritability scale of the Screen for Children’s Affective Reactivity–Home (SCAR-H). Citation: Kolko DJ, Baumann BL, Bukstein OG, Brown EJ. Internalizing symptoms and affective reactivity in relation to the severity of aggression in clinically referred, behavior-disordered children. J Child Fam Stud. 2007;16:745–759.",
+        "Levels": {
+            "1": "Not at All",
+            "2": "Somewhat",
+            "3": "A lot"
+        }
+    },
+
+    "ARI_P_TOTAL": {
+        "Description": "Total score on the parent-completed Affective Reactivity Index (ARI), with values ranging from 0 to 12. Citation: Stringaris A, Goodman R, Ferdinando S, Razdan V, Muhrer E, Leibenluft E, Brotman MA. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17."
+    },
+
+    "ARI_P1_ANNOYED": {
+        "Description": "Item 1 from the Affective Reactivity Index (ARI-P). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_P2_LOSE_TEMPER_OFTEN": {
+        "Description": "Item 2 from the Affective Reactivity Index (ARI-P). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_P3_STAY_ANGRY": {
+        "Description": "Item 3 from the Affective Reactivity Index (ARI-P). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_P4_ANGRY_MOST": {
+        "Description": "Item 4 from the Affective Reactivity Index (ARI-P). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_P5_FREQ_ANGRY": {
+        "Description": "Item 5 from the Affective Reactivity Index (ARI-P). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+
+    "ARI_P6_LOSE_TEMPER_EASY": {
+        "Description": "Item 6 from the Affective Reactivity Index (ARI-P). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_Y_TOTAL": {
+        "Description": "Total score on the participant-completed Affective Reactivity Index (ARI), with values ranging from 0 to 12. Citation: Stringaris A, Goodman R, Ferdinando S, Razdan V, Muhrer E, Leibenluft E, Brotman MA. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17."
+    },
+
+
+    "ARI_Y1_ANNOYED": {
+        "Description": "Item 1 from the Affective Reactivity Index (ARI-Y). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_Y2_LOSE_TEMPER_OFTEN": {
+        "Description": "Item 2 from the Affective Reactivity Index (ARI-Y). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_Y3_STAY_ANGRY": {
+        "Description": "Item 3 from the Affective Reactivity Index (ARI-Y). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_Y4_ANGRY_MOST": {
+        "Description": "Item 4 from the Affective Reactivity Index (ARI-Y). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "ARI_Y5_FREQ_ANGRY": {
+        "Description": "Item 5 from the Affective Reactivity Index (ARI-Y). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+
+    "ARI_Y6_LOSE_TEMPER_EASY": {
+        "Description": "Item 6 from the Affective Reactivity Index (ARI-Y). Citation: Stringaris A., et al. The Affective Reactivity Index: a concise irritability scale for clinical and research settings. J Child Psychol Psychiatry. 2012 Nov;53(11):1109-17. PMID: 22574736.",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+
+    "DX.ANX": {
+        "Description": "The participant meets criteria for an anxiety disorder using the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J, Birmaher B, Brent D, Rao U, Flynn C, Moreci P, Williamson D, Ryan N. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8.",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "DX.ADHD": {
+        "Description": "The participant meets criteria for attention-deficit/hyperactivity disorder using the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J, Birmaher B, Brent D, Rao U, Flynn C, Moreci P, Williamson D, Ryan N. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8.",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "DX.DMDD": {
+        "Description": "The participant meets criteria for disruptive mood dysregulation disorder using the DMDD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J, Birmaher B, Brent D, Rao U, Flynn C, Moreci P, Williamson D, Ryan N. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8.",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "DX.ODD": {
+        "Description": "The participant meets criteria for oppositional defiant disorder (ODD) using the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J, Birmaher B, Brent D, Rao U, Flynn C, Moreci P, Williamson D, Ryan N. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8.",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "DX.HV": {
+        "Description": "The participant is a healthy volunteer and does not meet criteria for any psychiatric disorder using the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J, Birmaher B, Brent D, Rao U, Flynn C, Moreci P, Williamson D, Ryan N. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8.",
+        "Levels": {
+            "1": "yes",
+            "-1": "no"
+        }
+    },
+
+    "KSADS_INATTENTION": {
+        "Description": "Sum score of questions from the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL) ADHD screener and supplement assessing inattention: difficulty sustaining attention, easily distracted, makes a lot of careless mistakes, doesn't listen, difficulty following directions, difficulty organizing tasks, dislikes/avoids tasks requiring attention, loses things, forgetful in daily activities."
+    },
+
+    "KSADS_SUSTAIN_ATTNTN": {
+        "Description": "Item from the ADHD screener of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_DISTRACT_EASY": {
+        "Description": "Item from the ADHD screener of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_CARELESS_MISTAKES": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_DONT_LISTEN": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_DIFF_FOL_DIRECTION": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_DIFF_ORG_TASK": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_DISLIKE_ATTN_TASK": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_LOSE_THINGS": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_DAILY_FORGET": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_HYPERACTIVITY": {
+        "Description": "Sum score of questions from the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL) ADHD screener and supplement assessing hyperactivity: difficulty remaining seated, fidgets, runs or climbs excessively, on the go/acts like driven by a motor, difficulty playing quietly, blurts out answers, difficulty waiting turn, interrupts or intrudes, talks excessively."
+    },
+
+    "KSADS_SEATED": {
+        "Description": "Item from the ADHD screener of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_FIDGET": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_RUN_EXCESSIVE": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_ON_THE_GO": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_DIFF_QUIET_PLAY": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_BLURT_OUT": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_DIFF_WAIT_TURN": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_INTERRUPT": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    },
+
+    "KSADS_TALKATIVE": {
+        "Description": "Item from the ADHD supplement of the Kiddie Schedule for Affective Disorders - Present and Lifetime Version (KSADS-PL). Citation: Kaufman J., et al. Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad Child Adolesc Psychiatry. 1997 Jul;36(7):980-8. PMID: 9204677.",
+        "Levels": {
+            "1": "Not Present",
+            "2": "Subthreshold",
+            "3": "Threshold"
+        }
+    }
+}
